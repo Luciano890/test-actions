@@ -1,0 +1,18 @@
+test: hola pue
+
+multi-string: >
+  cositas
+  cosotas
+  test:
+  lalalala
+  sisisisi
+
+otro-ejemplo: |
+  Hola mundo
+  Chao mundo
+  Ajaaaaaa
+
+lista:
+  - uno
+  - dos
+  - tres
